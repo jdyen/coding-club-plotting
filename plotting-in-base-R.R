@@ -1,6 +1,11 @@
 # Plotting in base R
 # QAEco coding club Thursday 7 March
 
+## CODE AT:
+# github.com/jdyen/coding-club-plotting
+## Also check out notes on similar material at:
+# https://gist.github.com/noamross/027e1f63343ba223b9cb
+
 # we're going to work with a function to make an elephant
 # (see Mayer et al. 2010 [Am. J. Phys. 78:648-649] for details)
 source("elephant-function.R")
